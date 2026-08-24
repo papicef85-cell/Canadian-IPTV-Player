@@ -82,6 +82,14 @@ const CONFIG = {
             logo: '🎪',
             m3u8: 'https://example.com/showcase/live.m3u8',
             description: 'Showcase - Canadian drama and entertainment'
+        },
+        {
+            id: 'space',
+            name: 'Space Channel',
+            category: 'Entertainment',
+            logo: '🚀',
+            m3u8: 'https://example.com/space/live.m3u8',
+            description: 'Space Channel - Canadian science fiction and speculative entertainment'
         }
     ],
 
