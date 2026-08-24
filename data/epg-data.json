@@ -1,0 +1,156 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-08-24",
+  "description": "Canadian IPTV EPG Archive 2005-2013",
+  "channels": [
+    {
+      "id": "tsn",
+      "name": "TSN (Sports)",
+      "category": "Sports"
+    },
+    {
+      "id": "sn",
+      "name": "Sportsnet",
+      "category": "Sports"
+    },
+    {
+      "id": "ctv",
+      "name": "CTV",
+      "category": "General"
+    },
+    {
+      "id": "cbc",
+      "name": "CBC Television",
+      "category": "General"
+    },
+    {
+      "id": "global",
+      "name": "Global TV",
+      "category": "General"
+    },
+    {
+      "id": "htv",
+      "name": "History TV",
+      "category": "Documentary"
+    },
+    {
+      "id": "disc",
+      "name": "Discovery",
+      "category": "Documentary"
+    },
+    {
+      "id": "bravo",
+      "name": "Bravo!",
+      "category": "Entertainment"
+    },
+    {
+      "id": "slice",
+      "name": "Slice",
+      "category": "Lifestyle"
+    },
+    {
+      "id": "showcase",
+      "name": "Showcase",
+      "category": "Entertainment"
+    }
+  ],
+  "epgYears": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "timeSlots": [
+    "00:00",
+    "02:00",
+    "04:00",
+    "06:00",
+    "08:00",
+    "10:00",
+    "12:00",
+    "14:00",
+    "16:00",
+    "18:00",
+    "20:00",
+    "22:00"
+  ],
+  "programGenres": [
+    "Sports",
+    "News",
+    "Drama",
+    "Documentary",
+    "Reality",
+    "Entertainment",
+    "Comedy",
+    "Movie",
+    "Current Affairs",
+    "Educational"
+  ],
+  "samplePrograms": [
+    {
+      "id": 1,
+      "title": "Morning News",
+      "duration": 60,
+      "genre": "News"
+    },
+    {
+      "id": 2,
+      "title": "Sports Update",
+      "duration": 30,
+      "genre": "Sports"
+    },
+    {
+      "id": 3,
+      "title": "Current Affairs",
+      "duration": 60,
+      "genre": "Current Affairs"
+    },
+    {
+      "id": 4,
+      "title": "Documentary Feature",
+      "duration": 90,
+      "genre": "Documentary"
+    },
+    {
+      "id": 5,
+      "title": "Midday Live",
+      "duration": 120,
+      "genre": "Entertainment"
+    },
+    {
+      "id": 6,
+      "title": "Afternoon Movie",
+      "duration": 120,
+      "genre": "Movie"
+    },
+    {
+      "id": 7,
+      "title": "Evening News",
+      "duration": 60,
+      "genre": "News"
+    },
+    {
+      "id": 8,
+      "title": "Prime Time Drama",
+      "duration": 60,
+      "genre": "Drama"
+    },
+    {
+      "id": 9,
+      "title": "Sports Tonight",
+      "duration": 120,
+      "genre": "Sports"
+    },
+    {
+      "id": 10,
+      "title": "Late Night Show",
+      "duration": 60,
+      "genre": "Entertainment"
+    }
+  ]
+}

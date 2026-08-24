@@ -1,0 +1,36 @@
+{
+  "name": "canadian-iptv-player",
+  "version": "1.0.0",
+  "description": "A Canadian live IPTV Player with legal Canadian English language Specialty Networks, TV Guide EPG, and full timeline filtering by year 2005-2013",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "http-server -p 8000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iptv",
+    "canadian",
+    "tv-player",
+    "epg",
+    "tv-guide",
+    "streaming",
+    "specialty-networks",
+    "hls",
+    "m3u8"
+  ],
+  "author": "papicef85-cell",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/papicef85-cell/Canadian-IPTV-Player.git"
+  },
+  "bugs": {
+    "url": "https://github.com/papicef85-cell/Canadian-IPTV-Player/issues"
+  },
+  "homepage": "https://github.com/papicef85-cell/Canadian-IPTV-Player#readme",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "devDependencies": {}
+}
